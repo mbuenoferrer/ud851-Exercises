@@ -15,4 +15,5 @@
 -->
 <resources>
     <string name="app_name">Explicit Intent</string>
+    <string name="hello_world">Hello world, this is a example text</string>
 </resources>
